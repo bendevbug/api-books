@@ -1,0 +1,1 @@
+alter table tb_books add column company varchar(30) not null;
